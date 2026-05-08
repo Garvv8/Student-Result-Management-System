@@ -1,2 +1,11 @@
-# Student-Result-Management-System
-Java-based desktop application for managing student records, course enrollments, and exam results using JDBC, MySQL, OOP concepts, and DAO architecture.
+
+# Student Result Management System
+
+Tech Stack: Java, MySQL, JDBC, Swing GUI
+
+Features:
+- Student CRUD operations
+- Course and enrollment management
+- Result management
+- JDBC connectivity
+- DAO Pattern implementation
